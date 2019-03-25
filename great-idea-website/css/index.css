@@ -49,12 +49,13 @@ table {
 
 /* Set every element's box-sizing to border-box */
 * {
-    box-sizing: border-box;
+	box-sizing: border-box;
+	
 }
 
 html, body {
     height: 100%;
-    font-family: 'Titillium Web', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
@@ -64,3 +65,123 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+/* Navigation area */
+.container-main { 
+	width: 880px;
+	margin: auto;
+	/* border: 1px solid red; */
+}
+
+
+.navigation nav {
+	display: inline-block;
+	margin-top: 40px;
+}
+
+img.logo{
+	display: inline-block;
+	margin-left: 75px;
+}
+
+.navigation nav a {
+	margin: 0 20px;
+	text-decoration: none;
+	color: gray;
+}
+
+
+/* header section */
+
+.header {
+	display: inline-block;
+	width: 880px;
+	
+}
+
+header .header .left-content button {
+	background: transparent;
+	border: 2px solid gray;
+	width: 140px;
+	padding: 5px 0;
+}
+
+.header .left-content{
+	font-size: 60px;
+	text-align: center; 
+	display: inline-block;
+	width: 410px;
+	padding: 88px;
+	vertical-align: top;
+}
+
+.header .right-content {
+	display: inline-block;
+	width: 410px;
+	padding: 34px;
+}
+	
+/*  First content area  */
+
+.main-content .first-content {
+	display: inline-block;
+	width: 880px;
+	margin: auto;
+}
+
+ .main-content .first-content div {
+	 display: inline-block;
+	 width: 400px;
+	 margin-left: 15px;
+	 padding: 10px 0;
+	 
+ }
+
+ /* Second content area */
+
+ .main-content .second-content {
+	display: inline-block;
+	width: 880px;
+	margin: auto;
+	padding: 10px 0;
+ }
+
+ .main-content .second-content div {
+	display: inline-block;
+	width: 270px;
+	margin-left: 15px;
+	
+}
+
+/* Contact section and footer section */
+
+.contact div {
+	display: inline-block;
+	width: 171px;
+	margin-left: 16px;
+	padding: 10px 0;
+}
+
+footer {
+	display: inline-block;
+	width: 880px;
+	margin: auto;
+	padding: 20px 0;
+	text-align: center;
+}
+
+.middle-img {
+	padding: 15px 0;
+	width: 823px;
+	margin-left: 16px;
+}
+
+hr {
+	width: 824px;
+	margin-right: 39px;
+}
+
+.contact p br{
+	line-height: 2.5;
+}
