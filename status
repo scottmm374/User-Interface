@@ -1,0 +1,85 @@
+[33mcommit 6884204587b54c18d50608ea44ffce05ce19e7ca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Michelle Scott <scottmm374@gmail.com>
+Date:   Mon Mar 25 14:17:52 2019 -0400
+
+    Stretch goal added changes to Nav  bar and button
+
+[33mcommit f566bb7f68e8d512b849d8bc600702d23ae9058c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Michelle Scott <scottmm374@gmail.com>
+Date:   Sun Mar 24 20:34:02 2019 -0400
+
+    added line breaks in contact section
+
+[33mcommit 0d95cc3c730249f610ff7d155c6b04255bfa0a3c[m
+Author: Michelle Scott <scottmm374@gmail.com>
+Date:   Sun Mar 24 20:21:37 2019 -0400
+
+    Removed BR from HTML and CSS index
+
+[33mcommit ebad477f96f8735adccc99980d57701d1942fd67[m
+Author: Michelle Scott <scottmm374@gmail.com>
+Date:   Sun Mar 24 20:05:27 2019 -0400
+
+    saved a change
+
+[33mcommit e14f105b2e32ec5ead922a4d2f9cc94566b67604[m
+Author: Michelle Scott <scottmm374@gmail.com>
+Date:   Sun Mar 24 20:03:12 2019 -0400
+
+    First upload of project UI II
+
+[33mcommit 88c3f5e019ff04603cd5f9e6997921cee3befdfb[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Sun Jun 10 00:50:09 2018 -0600
+
+    added short training video to readme
+
+[33mcommit 043eef3e9a916b6daaa60ce01d4d2fe87a2b181d[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Sun Jun 10 00:42:21 2018 -0600
+
+    Updates to UI Project 1
+
+[33mcommit 9a7716f65bff4cfc75ce7f0b8400a38f62b97626[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Tue May 1 11:06:45 2018 -0600
+
+    Update to readme
+
+[33mcommit 1f1f2ff74f2920bc39a6aae99a827773a4aad120[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Mon Apr 2 09:34:18 2018 -0600
+
+    Slight update for heading margin-bottom
+
+[33mcommit 468c0f5025b4fdb7f4ffe36a09c3c2a8067745cf[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Fri Mar 30 18:49:32 2018 -0600
+
+    Typo update
+
+[33mcommit a75615d361116e829b210c8ad04db2e799bcabdb[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Fri Mar 30 18:48:30 2018 -0600
+
+    Updates to readme
+    
+    - Updates to file paths
+    - Updates to verbiage
+
+[33mcommit c068d1c80e17852b64b73aeebf0e1bc809555ecc[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Fri Mar 30 18:41:15 2018 -0600
+
+    Updates to UI - Great Idea Project
+    
+    - Updated readme
+    - Added .DS_Store to gitignore
+    - Moved design files
+    - Updated HTML structure
+
+[33mcommit 4ce0e4846511bfe25bdc86b54c1e7befd6d4417a[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Mon Feb 5 12:59:59 2018 -0700
+
+    initial commit

@@ -71,13 +71,17 @@ h1, h2, h3, h4, h5 {
 .container-main { 
 	width: 880px;
 	margin: auto;
-	/* border: 1px solid red; */
+	
 }
 
 
 .navigation nav {
 	display: inline-block;
 	margin-top: 40px;
+	background-color: lightsteelblue;
+	box-shadow: 0 4px 8px grey;
+	
+
 }
 
 img.logo{
@@ -91,6 +95,10 @@ img.logo{
 	color: gray;
 }
 
+.navigation nav a:hover {
+	color: #2d373a;
+}
+
 
 /* header section */
 
@@ -102,9 +110,14 @@ img.logo{
 
 header .header .left-content button {
 	background: transparent;
-	border: 2px solid gray;
 	width: 140px;
 	padding: 5px 0;
+	/* background-color: lightsteelblue; */
+	box-shadow: 0 4px 8px grey;
+}
+
+header .header .left-content button:hover {
+	background-color: lightsteelblue;
 }
 
 .header .left-content{
